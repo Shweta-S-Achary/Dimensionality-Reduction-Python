@@ -1,6 +1,6 @@
 # Dimensionality-Reduction-Python
 
-Dimensionality reduction is a process where we reduce the number of features to be analyzed, thus reducing the cost for analysis of data. The data used ia a synthetic data of plant genetics. Here, we select 15 causal features from a total of 29,623 features using Pearson's Correlation. After feature selection, we perform classification on this new dataset using machine learning packages by implementing SVM, Gaussian  Naïve Bayes, Logistic Regression and Nearest Centroid techniques to compare the accuracy of predictions given by this new dataset.
+Dimensionality reduction is a process where we reduce the number of features to be analyzed, thus reducing the cost for analyzing the data. The data used ia a synthetic data of plant genetics. Here, we select 15 causal features from a total of 29,623 features using Pearson's Correlation. After feature selection, we perform classification on this new dataset using machine learning packages by implementing SVM, Gaussian  Naïve Bayes, Logistic Regression and Nearest Centroid techniques to compare the accuracy of predictions given by this new dataset.
 
 ## Step 1. Download Training Data and Labels from following links into the main folder
 
